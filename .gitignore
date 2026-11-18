@@ -1,0 +1,12 @@
+# Base de datos local
+*.db
+*.db-shm
+*.db-wal
+
+# Binarios y cobertura
+/bin/
+*.exe
+cover.out
+
+.vscode/
+.idea/
